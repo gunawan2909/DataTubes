@@ -1,0 +1,39 @@
+{ "Jadwal" : [
+    {
+        "Hari" :  "Senin",
+        "Kitab"   : "Ala la",
+        "Ustadz"  : "Muh Lisun",
+        "Detail" : "Libur"
+    },
+    {
+        "Hari"  :  "Selasa",
+        "Kitab"   : "Taklim",
+        "Ustadz"  : "Anif",
+        "Detail" : "Tersedia"
+    },
+    {
+        "Hari" :  "Rabu",
+        "Kitab"   : "Riadus Sholihin",
+        "Ustadz"  : "Ma'ruf",
+        "Detail" : "Tersedia"
+    },
+     {
+        "Hari" :  "Kamis",
+        "Kitab"   : "Ala la",
+        "Ustadz"  : "Muh Lisun",
+        "Detail" : "Libur"
+    },
+    {
+        "Hari"  :  "Jum'at",
+        "Kitab"   : "Taklim",
+        "Ustadz"  : "Anif",
+        "Detail" : "Tersedia"
+    },
+    {
+        "Hari" :  "Sabtu",
+        "Kitab"   : "Riadus Sholihin",
+        "Ustadz"  : "Ma'ruf",
+        "Detail" : "Tersedia"
+    }
+   ]
+   }
