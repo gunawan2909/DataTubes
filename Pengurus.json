@@ -1,0 +1,22 @@
+{ "Pengurus" : [
+    {
+        "Jabatan" : "Lurah",
+        "Nama"   : "Gunawan ",
+        "Kelas"  : "Ibtidak",
+        "Detail" : "Merupakan seorang mahasiswa"
+    },
+    {
+        "Jabatan" :  "Sekretaris",
+        "Nama"   : "Abdul",
+        "Kelas"  : "Wusto",
+        "Detail" : "Merupakan seorang mahasiwa"
+    },
+     {
+        "Jabatan" :  "Bendahara",
+        "Nama"   : "Hani",
+        "Kelas"  : "Awaliyah",
+        "Detail" : "Merupakan seorang siswa"
+    }
+    
+   ]
+   }
